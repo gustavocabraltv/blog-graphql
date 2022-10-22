@@ -10,7 +10,7 @@ npm run dev
 yarn dev
 ```
 
-Open youtube video `https://www.youtube.com/watch?v=Dc7LAgqy1_E`.
+Open youtube video `https://www.youtube.com/watch?v=oUZLx79AN1A`.
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
